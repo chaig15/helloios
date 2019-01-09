@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 542A039D21E6849D00D2A21C /* Build configuration list for PBXProject "helloios" */;
+			buildConfigurationList = 542A039D21E6849D00D2A21C /* Build configuration list for PBXProject "Hello" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -433,6 +433,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS75PTJGR4;
 				INFOPLIST_FILE = helloios/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +451,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS75PTJGR4;
 				INFOPLIST_FILE = helloios/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -543,7 +545,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		542A039D21E6849D00D2A21C /* Build configuration list for PBXProject "helloios" */ = {
+		542A039D21E6849D00D2A21C /* Build configuration list for PBXProject "Hello" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				542A03C821E684A600D2A21C /* Debug */,
